@@ -16,12 +16,14 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Samaranayake H.D.I.M
+- **GitHub Username:** @Iresha1234-afk
+- **Location:** SLIIT Malabe
+- **Background:** Data Science
+- **Learning Goals:** Github 101
+- **Fun Fact:** An ostrich's eye is bigger than its whole brain.
+- **Date Added:** 26th of April 2026
+
+
 
 
